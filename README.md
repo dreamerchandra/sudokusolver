@@ -28,5 +28,5 @@ This project is an wrapper on <a href="https://github.com/prajwalkr/SnapSudoku">
 
 <h2>Working</h2>
 <div>
-<iframe width="853" height="480" src="https://www.youtube.com/embed/EpD2xlgQ-3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Sodoku solver](http://img.youtube.com/vi/EpD2xlgQ-3w/0.jpg)](http://www.youtube.com/watch?v=EpD2xlgQ-3w "Sudoku solver")
 </div>
