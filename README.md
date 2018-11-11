@@ -29,5 +29,5 @@ This project is an wrapper on <a href="https://github.com/prajwalkr/SnapSudoku">
 <h2>Working</h2>
   <div align="center">
   <a href="http://www.youtube.com/watch?v=EpD2xlgQ-3w"><img src="http://img.youtube.com/vi/EpD2xlgQ-3w/0.jpg" alt="Sudoku   solver"></a>
-  Click on the image to play the video
   </div>
+  <i>Click on the image to play the video</i>
